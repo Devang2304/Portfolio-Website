@@ -12,7 +12,7 @@ I learned HTML5,CSS3 & Javacript from the freecodecamp website and from their Yo
 
 Here you can find the demo link:
 
-- [Github](https://devang2304.github.io/Drum-Machine/)
+- [Github] Deployment on github page is not working I'll delpoy it on netlify.
 
 ## :rocket: Technologies ##
 
